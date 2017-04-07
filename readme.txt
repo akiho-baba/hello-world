@@ -1,2 +1,2 @@
-hellow git!
-git it!
+hello git!
+git it now!
